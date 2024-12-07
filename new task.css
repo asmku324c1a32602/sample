@@ -1,0 +1,14 @@
+.row{
+    list-style: none;
+    overflow: hidden;
+}
+
+.a{
+    margin-top: 70px;
+}
+.b{
+    position:absolute;
+    top: 0%;
+    left: 30px;
+    margin-top: 50px;
+} 
